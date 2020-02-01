@@ -1,4 +1,4 @@
-The attached file contains dashboards that answer the following questions:
+The attached file(BI_Project.twbx) contains dashboards that answer the following questions:
 1) Which state had improved voter turnout than previous elections?
 2) Does the literacy rate of a state affect the voter turnout?
 3) What is the minimum education level of contestants of each of the states?
